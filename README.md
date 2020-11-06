@@ -1,4 +1,4 @@
-# Computer-Organisation
+
 # Computer Architecture
 
 ## Overview
